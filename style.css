@@ -1,0 +1,12 @@
+.card-header{
+    font-size:42px;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+.userName{
+display: flex;
+justify-content: center;
+font-weight: bold;
+
+}
